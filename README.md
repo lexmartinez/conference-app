@@ -53,6 +53,8 @@ Sometimes you may need to reset or clear the React Native packager's cache. To d
 yarn start --reset-cache
 ```
 
+> For further information regarding app bootstraping and other useful commands see [DETAILS.md](https://github.com/lexmartinez/conference-app/blob/master/DETAILS.md)
+
 ## Preview
 
 `... screenshots here ...`
