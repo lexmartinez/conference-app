@@ -2,7 +2,7 @@
 
 :circus_tent: A Sample Conference App built with React Native
 
-> Inspired on [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app)
+> Demo App inspired on [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app)
 
 ### Quick start
 

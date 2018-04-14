@@ -11,7 +11,8 @@
     "conference",
     "mobile-app",
     "sample-app",
-    "redux"
+    "redux",
+    "jsx"
   ],
   "author": "Lex Martinez<lex0316@gmail.com>",
   "license": "MIT",
