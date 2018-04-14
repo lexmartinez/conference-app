@@ -1,7 +1,24 @@
 {
   "name": "conference-app",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "A Sample Conference App built with React Native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexmartinez/conference-app.git"
+  },
+  "keywords": [
+    "react-native",
+    "conference",
+    "mobile-app",
+    "sample-app",
+    "redux"
+  ],
+  "author": "Lex Martinez<lex0316@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lexmartinez/conference-app/issues"
+  },
+  "homepage": "https://github.com/lexmartinez/conference-app",
   "devDependencies": {
     "react-native-scripts": "1.13.1",
     "jest-expo": "26.0.0",

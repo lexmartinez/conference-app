@@ -18,16 +18,13 @@ $ yarn install
 
 # start react-native (Expo) server with running App
 $ yarn start
-
-# or start Android emulator with running App
-$ react-native run-android
 ```
 
 # Table of Contents
 
 * [Dependencies](#dependencies)
 * [Developing](#developing)
-* [Preview](#preview)
+* [Screenshots](#screenshots)
 * [License](#license)
 
 
@@ -55,7 +52,7 @@ yarn start --reset-cache
 
 > For further information regarding app bootstraping and other useful commands see [DETAILS.md](https://github.com/lexmartinez/conference-app/blob/master/DETAILS.md)
 
-## Preview
+## Screenshots
 
 `... screenshots here ...`
 
