@@ -17,7 +17,7 @@ export default StyleSheet.create({
   },
   info: {
     flex: 1,
-    marginTop: 10,
+    marginTop: 15,
     alignItems: 'flex-start',
     flexDirection: 'row'
   },
@@ -25,7 +25,8 @@ export default StyleSheet.create({
     flex: 1,
     marginTop: 20,
     alignItems: 'flex-start',
-    flexDirection: 'row'
+    flexDirection: 'row',
+    paddingBottom: 50
   },
   avatar: {
     width: 48,
