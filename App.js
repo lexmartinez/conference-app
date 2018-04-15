@@ -6,8 +6,9 @@ import { createStore, applyMiddleware } from 'redux';
 import thunkMiddleware from 'redux-thunk';
 import reducers from './src/reducers/index';
 import config from "./src/config";
+import logger from 'redux-logger'
 
-const store = createStore(reducers, applyMiddleware(thunkMiddleware));
+const store = createStore(reducers, applyMiddleware(thunkMiddleware, logger));
 
 export default class App extends Component {
   render() {

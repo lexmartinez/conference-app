@@ -10,7 +10,7 @@ const init = {
 
 const reducer = (state = init, action) => {
   switch (action.type) {
-    case types.EVENTS:
+    case types.INFO:
       return {
         ...state,
         loading: true,
@@ -19,7 +19,7 @@ const reducer = (state = init, action) => {
         completed: false,
         detail: undefined
       };
-    case types.EVENTS_OK:
+    case types.INFO_OK:
       return {
         ...state,
         loading: false,
@@ -28,7 +28,7 @@ const reducer = (state = init, action) => {
         completed: true,
         detail: undefined
       };
-    case types.EVENTS_FAIL:
+    case types.INFO_FAIL:
       return {
         ...state,
         loading: false,
