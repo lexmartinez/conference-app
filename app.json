@@ -1,5 +1,7 @@
 {
   "expo": {
     "sdkVersion": "26.0.0"
-  }
+  },
+  "name": "conferenceApp",
+  "displayName": "conferenceApp"
 }

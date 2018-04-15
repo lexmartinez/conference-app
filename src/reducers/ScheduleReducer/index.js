@@ -1,0 +1,45 @@
+import * as types from './types';
+
+const init = {
+  loading: false,
+  events: [],
+  error: false,
+  completed: false,
+  detail: undefined
+};
+
+const reducer = (state = init, action) => {
+  switch (action.type) {
+    case types.EVENTS:
+      return {
+        ...state,
+        loading: true,
+        error: false,
+        events: [],
+        completed: false,
+        detail: undefined
+      };
+    case types.EVENTS_OK:
+      return {
+        ...state,
+        loading: false,
+        error: false,
+        events: action.payload,
+        completed: true,
+        detail: undefined
+      };
+    case types.EVENTS_FAIL:
+      return {
+        ...state,
+        loading: false,
+        events: [],
+        error: true,
+        completed: true,
+        detail: action.error
+      };
+    default:
+      return state;
+  }
+};
+
+export default reducer;
