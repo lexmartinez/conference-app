@@ -1,16 +1,19 @@
 import React from 'react';
 import { StackNavigator } from 'react-navigation';
-import { AboutScreen }  from '../screens';
+import { AboutScreen, LocationScreen }  from '../screens';
 import config from '../config';
 
 export default StackNavigator(
   {
     About: {
       screen: AboutScreen,
+    },
+    Location: {
+      screen: LocationScreen
     }
   },
   {
-    initialRouteName: 'About',
+    initialRouteName: 'Location',
     navigationOptions: {
       title: 'Conference App',
       gesturesEnabled: false,
