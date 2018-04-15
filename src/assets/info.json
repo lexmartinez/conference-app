@@ -8,5 +8,63 @@
   },
   "banner": "https://www.brightedge.com/sites/default/files/sharebanner-events.png",
   "date": "May 17, 2018",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in metus ac turpis cursus suscipit at a nisi. Praesent eu vehicula ante. Nullam viverra diam erat, at venenatis leo rutrum non. Integer vulputate aliquam augue, et hendrerit erat pellentesque in. Suspendisse tempor urna lorem, quis ornare tellus tristique et."
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in metus ac turpis cursus suscipit at a nisi. Praesent eu vehicula ante. Nullam viverra diam erat, at venenatis leo rutrum non. Integer vulputate aliquam augue, et hendrerit erat pellentesque in. Suspendisse tempor urna lorem, quis ornare tellus tristique et.",
+  "speakers": [
+    {
+      "name": "Dawn Schneider",
+      "bio": "Nisi eiusmod Lorem tempor nulla cillum ullamco. Tempor cupidatat ad duis incididunt ut nulla ea laborum labore occaecat laborum. Proident nostrud ea mollit esse veniam culpa do minim eiusmod. Deserunt pariatur proident excepteur dolor.\r\n",
+      "twitter": "esse",
+      "github": "occaecat",
+      "subtitle": "Mobile Developer at Buzzopia",
+      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+    },
+    {
+      "name": "Bernard Marquez",
+      "bio": "Cillum pariatur ex consectetur enim culpa laboris officia nisi. Nulla quis exercitation non amet incididunt nulla mollit pariatur reprehenderit exercitation irure. Non ea exercitation sit velit mollit est amet laboris veniam do. Ut officia ad labore adipisicing tempor Lorem nisi irure tempor mollit ut quis. Et occaecat consectetur ipsum consequat. Aliquip reprehenderit ea minim incididunt anim irure anim nisi nisi laboris anim. Eu commodo minim ad voluptate cillum deserunt ipsum tempor mollit velit reprehenderit exercitation.\r\n",
+      "twitter": "proident",
+      "github": "amet",
+      "subtitle": "Freelance at Eschoir",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E8qd1Q4h8SKOgqNfwS5cBs6BkQ2EIZRXxiR86lPwwvB559Lbqg"
+    },
+    {
+      "name": "Eileen Quinn",
+      "bio": "Eiusmod ex et ad exercitation amet ad proident. Consectetur dolore fugiat amet cupidatat aute elit ea veniam sit excepteur irure. Nostrud deserunt aliquip esse enim consequat non reprehenderit consequat anim duis ipsum in. Eu adipisicing aliquip culpa laboris velit ipsum culpa quis aute. Veniam ad in fugiat proident eu officia consectetur sit.\r\n",
+      "twitter": "excepteur",
+      "github": "eiusmod",
+      "subtitle": "CEO at Tropolis",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SvMXT2J0U7oCXnO5nSdd5n5lKAWnSthZUzOCHs6phpNqNwDh"
+    },
+    {
+      "name": "Wiggins Lopez",
+      "bio": "Nostrud reprehenderit labore in ex do amet culpa elit pariatur. Magna officia nulla consectetur est. Aliquip ullamco nostrud veniam ipsum in. Elit Lorem nostrud voluptate non officia enim aliquip ullamco qui irure ea aute ullamco. Culpa consectetur deserunt exercitation commodo culpa anim. Tempor excepteur excepteur aute irure proident.\r\n",
+      "twitter": "eu",
+      "github": "est",
+      "subtitle": "Senior Frontend at Protodyne",
+      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/111863/profile/profile-512.jpg?6"
+    },
+    {
+      "name": "Hyde Head",
+      "bio": "In exercitation dolor aute in eu. Non ut sit reprehenderit tempor non pariatur. Tempor consequat sint minim occaecat qui exercitation deserunt eiusmod occaecat cupidatat eiusmod. Minim proident ullamco consectetur mollit consectetur cupidatat nulla enim occaecat ut id. Amet irure proident qui do ex.\r\n",
+      "twitter": "nostrud",
+      "github": "elit",
+      "subtitle": "Backend Developer at Poochies",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruKhAom5oaOsrnVP1WIm0Y2QjkrmBN28lmxYauGZ-OKEaVKUD"
+    },
+    {
+      "name": "Terry Hurst",
+      "bio": "Est culpa consequat non ut ad aliquip commodo commodo officia aliquip dolor nostrud enim est. Commodo velit occaecat laborum ad excepteur aute officia. Laboris nulla incididunt culpa magna dolor consequat id nulla est consectetur fugiat. Eu consequat in id veniam labore ipsum cupidatat consequat veniam ex enim occaecat id. Et qui aute amet non amet commodo labore incididunt Lorem.\r\n",
+      "twitter": "ea",
+      "github": "laborum",
+      "subtitle": "Founder at Proflex",
+      "avatar": "http://endlesstheme.com/Endless1.5.1/img/user2.jpg"
+    },
+    {
+      "name": "Bruce Pate",
+      "bio": "Laboris et voluptate cillum tempor laborum in irure aliqua mollit excepteur magna do fugiat. Ullamco tempor sunt exercitation incididunt anim aute veniam in mollit mollit exercitation minim proident. Sit adipisicing reprehenderit duis sunt officia culpa consectetur qui minim officia et aliquip et.\r\n",
+      "twitter": "Lorem",
+      "github": "sint",
+      "subtitle": "Founder at Lyria",
+      "avatar": "https://relayfm.s3.amazonaws.com/uploads/user/avatar/4/user_avatar_mykehurley_artwork.png"
+    }
+  ]
 }
