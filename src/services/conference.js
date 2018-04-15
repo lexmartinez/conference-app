@@ -1,7 +1,7 @@
 import config from '../config';
 
 export default {
-  getEvents: () => fetch(`${config.API_URL}/events`, {
+  getInfo: () => fetch(`${config.API_URL}/src/assets/info.json`, {
     method: 'GET',
     headers: {
       Accept: 'application/json'

@@ -1,4 +1,4 @@
 import { combineReducers } from 'redux';
-import schedule from './ScheduleReducer';
+import conference from './ConferenceReducer';
 
-export default combineReducers({schedule});
+export default combineReducers({conference});
