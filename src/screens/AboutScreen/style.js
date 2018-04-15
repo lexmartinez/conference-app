@@ -1,4 +1,6 @@
-import {StyleSheet} from "react-native";
+import {Dimensions, StyleSheet} from "react-native";
+
+const { width } = Dimensions.get('window');
 
 export default StyleSheet.create({
   container: {
@@ -6,7 +8,7 @@ export default StyleSheet.create({
     padding: 20
   },
   title: {
-    fontSize: 17,
+    fontSize: 19,
     fontWeight: 'bold',
     justifyContent: 'center',
     alignItems: 'center',
@@ -17,7 +19,7 @@ export default StyleSheet.create({
   },
   info: {
     flex: 1,
-    marginTop: 15,
+    marginTop: 7,
     alignItems: 'flex-start',
     flexDirection: 'row'
   },
@@ -26,7 +28,7 @@ export default StyleSheet.create({
     marginTop: 20,
     alignItems: 'flex-start',
     flexDirection: 'row',
-    paddingBottom: 50
+    paddingBottom: 35
   },
   avatar: {
     width: 48,
@@ -36,5 +38,14 @@ export default StyleSheet.create({
   },
   name: {
     fontWeight: 'bold'
+  },
+  banner: {
+    flex: 1,
+    maxHeight: 300,
+    height: 300,
+    width
+  },
+  link: {
+    color: '#255899'
   }
 });
