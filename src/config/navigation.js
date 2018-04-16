@@ -1,7 +1,7 @@
 import React from 'react';
 import { TabNavigator, StackNavigator, TabBarBottom } from 'react-navigation';
 import Icon from 'react-native-vector-icons/Feather';
-import { LocationScreen, AboutScreen }  from '../screens';
+import { LocationScreen, AboutScreen, SpeakersScreen }  from '../screens';
 import { View } from 'react-native';
 import { Header } from '../components';
 import config from '../config';
@@ -16,7 +16,7 @@ export default StackNavigator({
         },
         Speakers: {
           name: 'Speakers',
-          screen: View,
+          screen: SpeakersScreen,
         },
         Map: {
           name: 'Map',
