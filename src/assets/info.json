@@ -66,5 +66,13 @@
       "subtitle": "Founder at Lyria",
       "avatar": "https://relayfm.s3.amazonaws.com/uploads/user/avatar/4/user_avatar_mykehurley_artwork.png"
     }
+  ],
+  "events": [
+    {
+      "title": "8:00 am'",
+      "data": [
+        { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#006699"}
+      ]
+    }
   ]
 }
