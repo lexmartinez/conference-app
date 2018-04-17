@@ -97,7 +97,7 @@
       "data": [
         { "name" : "Migration from Ionic", "time": "11:00 am - 11:15 am", "place": "Room 2203", "color":"#C12071"},
         { "name" : "Community Integration", "time": "11:15 am - 11:30 am", "place": "Room 2202", "color":"#808080"},
-        { "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311"},
+        { "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311"}
       ]
     },
     {
