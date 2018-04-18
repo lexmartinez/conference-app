@@ -25,7 +25,7 @@ $ yarn start
 * [Dependencies](#dependencies)
 * [Developing](#developing)
 * [Screenshots](#screenshots)
-* [Participate & Reuse](#participate)
+* [Participate](#participate)
 * [License](#license)
 
 
@@ -59,7 +59,7 @@ yarn start --reset-cache
 | ------------- | ------------- |------------- |
 | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-4.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-5.png" width="300">  | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-6.png" width="300"> |
 
-## Participate & Reuse
+## Participate
 
 If you have any idea, this project is open for issues and pull requests also if you want use this app for any real life event, feel free to use it this code.
 
