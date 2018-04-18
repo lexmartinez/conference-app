@@ -48,9 +48,7 @@ class ScheduleView extends Component {
               this.setState({events:this.props.conference.events});
             } else {
               this.setState({events:this.props.conference.events.filter(item => {
-                console.log(item)
-                item.name.toLowerCase().indexOf(search.toLowerCase())>-1 ||
-                item.description.toLowerCase().indexOf(search.toLowerCase())>-1
+                return JSON.stringify(item.data).toLowerCase().indexOf(search.toLowerCase()) > -1
               })});
             }
           }}
